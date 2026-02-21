@@ -23,26 +23,26 @@ Configure the SQL Server database connection<br>
 Run the project<br>
 
 <h2>📷 Modules Overview</h2>
-Login System
+Login System<br>
 <img width="615" height="252" alt="image" src="https://github.com/user-attachments/assets/c69b5df8-62b1-41f6-9659-dfabc1e4e7d0" />
 
-Create an Account
+Create an Account<br>
 <img width="595" height="245" alt="image" src="https://github.com/user-attachments/assets/8a76e370-a69e-4bc2-a7fe-96f7c7945060" />
 
-Dashboard
+Dashboard<br>
 <img width="551" height="231" alt="image" src="https://github.com/user-attachments/assets/ae04de6f-4503-4379-9ea0-64e9e9d2caa9" />
 
-Customer Module
-<img width="576" height="277" alt="image" src="https://github.com/user-attachments/assets/00603e38-efa8-4d31-9b6e-c450f9803739" />
+Customer Module<br>
+<img width="576" height="277" alt="image" src="https://github.com/user-attachments/assets/00603e38-efa8-4d31-9b6e-c450f9803739" /><br>
 <img width="577" height="279" alt="image" src="https://github.com/user-attachments/assets/743c741e-0a31-462e-9cb1-d6557a511e08" />
 
-Appointment Module
+Appointment Module<br>
 <img width="574" height="279" alt="image" src="https://github.com/user-attachments/assets/9f6cfe11-f4df-4c95-accf-13c6fb8f5a66" />
 
-Feedback
+Feedback<br>
 <img width="573" height="276" alt="image" src="https://github.com/user-attachments/assets/11ccca60-e900-496a-8b80-8d347eaf453f" />
 
-Booking
+Booking<br>
 <img width="578" height="274" alt="image" src="https://github.com/user-attachments/assets/55f224b9-1035-40a3-a265-00db4821609b" />
 
 
